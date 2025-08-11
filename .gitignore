@@ -1,0 +1,50 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit cache
+.cache/
+.streamlit/
+
+# OS/Editor
+.DS_Store
+Thumbs.db
+
+# Data and output files
+*.csv
+*.xlsx
+*.xls
+*.json
+*.pdf
+*.zip
+*.log
+
+# Uploaded and feedback images
+feedback_images/
+sample_xray.jpg
+
+# Model weights and checkpoints
+*.pth
+*.pt
+
+# Feedback/Audit logs
+feedback_log.csv
+retraining_audit_log.csv
+
+# PDFs/Reports
+session_feedback_report.pdf
+
+# Docker build
+*.egg-info/
+dist/
+build/
+*.tar.gz
+*.whl
+
+# Dataset
+chest_xray/
+
+# Virtual Environment
+venv/
