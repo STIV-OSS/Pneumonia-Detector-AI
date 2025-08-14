@@ -170,7 +170,7 @@ It empowers clinicians and researchers with transparent AI predictions, on-the-f
 
 * **Name:** *Twisha Patel*
 * **Email:** *twishap534@gmail.com*
-* **GitHub:** *https://github.com/twishapatel12/Pneumonia-Detector-AI*
+* **GitHub:** *https://github.com/twishapatel12*
 
 ---
 
